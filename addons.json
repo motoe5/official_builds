@@ -11,9 +11,32 @@
             "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-uninstaller-20190204.zip"
         },
         {
-           "title": "Magisk",
+            "title": "Magisk",
             "summary": "Magisk Manager App",
             "url": "https://github.com/topjohnwu/Magisk/releases/download/manager-v7.1.1/MagiskManager-v7.1.1.apk"
+        }
+
+    ],
+            "hannah": [
+        {
+            "title":"Telegram",
+            "summary":"GROUP - Moto E5+ DEV",
+            "url":"https://t.me/motoe5dev"
+        },
+        {
+            "title":"Telegram",
+            "summary":"CHANNEL - Moto Files",
+            "url":"https://t.me/motofiles"
+        },
+        {
+            "title": "Recovery",
+            "summary": "TWRP Recovery",
+            "url": "https://androidfilehost.com/?fid=6006931924117891954"
+        },
+        {
+            "title":"GApps",
+            "summary":"OpenGApps | Use arm64 & android 9.0",
+            "url":"https://opengapps.org/"
         }
 
     ],
